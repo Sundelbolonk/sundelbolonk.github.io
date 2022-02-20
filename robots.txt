@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://sundelbolonk.github.io/sitemap.xml
